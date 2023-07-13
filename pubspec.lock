@@ -699,7 +699,7 @@ packages:
       name: thingsboard_client
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "1.0.6"
+    version: "1.0.3"
   typed_data:
     dependency: transitive
     description:
